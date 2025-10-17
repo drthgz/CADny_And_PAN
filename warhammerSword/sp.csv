@@ -1,0 +1,23 @@
+Feature,Value,Alias
+Total Length,1000,total_length
+Handle Length,150,handle_length
+Handle Diameter,35,handle_diameter
+Crossguard Length,120,crossguard_length
+Crossguard Width,25,crossguard_width
+Crossguard Thickness,12,crossguard_thickness
+Blade Length,650,blade_length
+Blade Width,90,blade_width
+Blade Thickness,25,blade_thickness
+Guide Width,12,guide_width
+Guide Depth,6,guide_depth
+Tooth Length,25,tooth_length
+Tooth Height,20,tooth_height
+Tooth Width,6,tooth_width
+Tooth Spacing,45,tooth_spacing
+Motor Housing Length,60,motor_housing_length
+Motor Housing Width,40,motor_housing_width
+Motor Housing Depth,30,motor_housing_depth
+Sprocket Diameter,50,sprocket_diameter
+Sprocket Thickness,12,sprocket_thickness
+Trigger Length,60,trigger_length
+Trigger Travel,8,trigger_travel
